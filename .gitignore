@@ -1,0 +1,9 @@
+*.backup
+*.before_*
+*.ocr_*
+scripts/
+fsi-source/
+*.txt
+test_*.*
+__pycache__/
+*.pyc
